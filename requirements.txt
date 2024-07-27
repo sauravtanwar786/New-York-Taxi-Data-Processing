@@ -2,3 +2,6 @@ pandas
 requests
 jupyter
 ipykernel
+matplotlib
+sqlite3
+
